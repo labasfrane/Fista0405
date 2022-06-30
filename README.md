@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fista0405
+- 👋 Hi, I’m Frane Labaš
 - 👀 I’m interested in front-end development, HTML, CSS, SCSS, JavaScript, React
 - 🌱 I’m currently learning React JS 
 - 📫 Reach me via labasfrane@gmail.com, www.linkedin.com/in/frane-labas
