@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Frane Labaš</h1>
 <h3 align="center">A frontend developer based in Split, Croatia</h3>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/Fista0405/expense-tracker)
+- 🔭 I’m currently working on [Marvel-Favourite-Character-App](https://github.com/Fista0405/marvel_favourite_characters) & [Expense Tracker](https://github.com/Fista0405/expense-tracker)
+- 
 
 - 🌱 I’m currently learning **Next.js**
 
